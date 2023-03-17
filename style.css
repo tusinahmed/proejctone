@@ -1,0 +1,48 @@
+main{
+   
+    background-color: #EEEEEE;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+     
+}
+
+#img-div{
+    background-color: white;
+    padding: 10px;
+    width: 96%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+   
+    
+
+}
+
+#img-caption{
+    text-align: center;
+}
+
+ul li span {
+    font-weight: 900;
+    
+    
+}
+ul li {
+    margin-bottom: 20px;
+}
+
+#tribute-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+ul{
+    width: 70%;
+    margin: auto;
+}
+
